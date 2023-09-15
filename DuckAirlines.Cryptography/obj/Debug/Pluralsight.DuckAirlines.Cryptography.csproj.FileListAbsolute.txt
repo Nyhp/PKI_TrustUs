@@ -1,0 +1,9 @@
+C:\Users\Administrator\Source\Repos\Pluralsight.DuckAirlines.Cryptography\Pluralsight.DuckAirlines.Cryptography\bin\Debug\dac.exe.config
+C:\Users\Administrator\Source\Repos\Pluralsight.DuckAirlines.Cryptography\Pluralsight.DuckAirlines.Cryptography\bin\Debug\dac.exe
+C:\Users\Administrator\Source\Repos\Pluralsight.DuckAirlines.Cryptography\Pluralsight.DuckAirlines.Cryptography\bin\Debug\dac.pdb
+C:\Users\Administrator\Source\Repos\Pluralsight.DuckAirlines.Cryptography\Pluralsight.DuckAirlines.Cryptography\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Administrator\Source\Repos\Pluralsight.DuckAirlines.Cryptography\Pluralsight.DuckAirlines.Cryptography\obj\Debug\Pluralsight.DuckAirlines.Cryptography.csprojAssemblyReference.cache
+C:\Users\Administrator\Source\Repos\Pluralsight.DuckAirlines.Cryptography\Pluralsight.DuckAirlines.Cryptography\obj\Debug\Pluralsight.DuckAirlines.Cryptography.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Source\Repos\Pluralsight.DuckAirlines.Cryptography\Pluralsight.DuckAirlines.Cryptography\obj\Debug\Pluralsight.DuckAirlines.Cryptography.csproj.CopyComplete
+C:\Users\Administrator\Source\Repos\Pluralsight.DuckAirlines.Cryptography\Pluralsight.DuckAirlines.Cryptography\obj\Debug\dac.exe
+C:\Users\Administrator\Source\Repos\Pluralsight.DuckAirlines.Cryptography\Pluralsight.DuckAirlines.Cryptography\obj\Debug\dac.pdb
